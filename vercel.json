@@ -1,12 +1,10 @@
 {
   "version": 2,
   "buildCommand": "npm run build",
-  "installCommand": "npm install",
+  "outputDirectory": "dist/public",
   "framework": "vite",
-  "outputDirectory": "dist",
-  "env": {
-    "NODE_ENV": "production"
-  },
+  "installCommand": "npm install"
+},
   "builds": [
     {
       "src": "package.json",
