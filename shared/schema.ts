@@ -80,7 +80,7 @@ export const defaultBotConfig: BotConfig = {
   ],
   stats: [
     { number: "15+", label: "Servers" },
-    { number: "5.5k+", label: "Users" },
+    { number: "6.5k+", label: "Users" },
     { number: "99.9%", label: "Uptime" },
   ],
   developers: [
